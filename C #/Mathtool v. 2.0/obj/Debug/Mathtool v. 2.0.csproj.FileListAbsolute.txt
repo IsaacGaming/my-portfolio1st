@@ -1,0 +1,7 @@
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Mathtool v. 2.0\bin\Debug\Mathtool v. 2.0.exe.config
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Mathtool v. 2.0\bin\Debug\Mathtool v. 2.0.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Mathtool v. 2.0\bin\Debug\Mathtool v. 2.0.pdb
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Mathtool v. 2.0\obj\Debug\Mathtool v. 2.0.csprojAssemblyReference.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Mathtool v. 2.0\obj\Debug\Mathtool v. 2.0.csproj.CoreCompileInputs.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Mathtool v. 2.0\obj\Debug\Mathtool v. 2.0.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Mathtool v. 2.0\obj\Debug\Mathtool v. 2.0.pdb

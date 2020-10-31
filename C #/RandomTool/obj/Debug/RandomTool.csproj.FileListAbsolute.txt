@@ -1,0 +1,7 @@
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\RandomTool\bin\Debug\RandomTool.exe.config
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\RandomTool\bin\Debug\RandomTool.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\RandomTool\bin\Debug\RandomTool.pdb
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\RandomTool\obj\Debug\RandomTool.csprojAssemblyReference.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\RandomTool\obj\Debug\RandomTool.csproj.CoreCompileInputs.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\RandomTool\obj\Debug\RandomTool.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\RandomTool\obj\Debug\RandomTool.pdb

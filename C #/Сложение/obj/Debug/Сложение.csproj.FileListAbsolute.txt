@@ -1,0 +1,7 @@
+C:\Users\Ayzek\Desktop\project (programms)\C #\Сложение\bin\Debug\Сложение.exe.config
+C:\Users\Ayzek\Desktop\project (programms)\C #\Сложение\bin\Debug\Сложение.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\Сложение\bin\Debug\Сложение.pdb
+C:\Users\Ayzek\Desktop\project (programms)\C #\Сложение\obj\Debug\Сложение.csprojAssemblyReference.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\Сложение\obj\Debug\Сложение.csproj.CoreCompileInputs.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\Сложение\obj\Debug\Сложение.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\Сложение\obj\Debug\Сложение.pdb

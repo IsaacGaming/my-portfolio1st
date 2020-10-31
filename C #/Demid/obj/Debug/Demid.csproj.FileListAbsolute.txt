@@ -1,0 +1,6 @@
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Demid\bin\Debug\Demid.exe.config
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Demid\bin\Debug\Demid.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Demid\bin\Debug\Demid.pdb
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Demid\obj\Debug\Demid.csprojAssemblyReference.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Demid\obj\Debug\Demid.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\Demid\obj\Debug\Demid.pdb

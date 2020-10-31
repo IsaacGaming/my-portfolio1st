@@ -1,0 +1,11 @@
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just forms.csprojAssemblyReference.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just_forms.Form1.resources
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just_forms.Form2.resources
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just forms.csproj.GenerateResource.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just_forms.Properties.Resources.resources
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just forms.csproj.CoreCompileInputs.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\bin\Debug\just forms.exe.config
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\bin\Debug\just forms.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\bin\Debug\just forms.pdb
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just forms.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\just forms\obj\Debug\just forms.pdb

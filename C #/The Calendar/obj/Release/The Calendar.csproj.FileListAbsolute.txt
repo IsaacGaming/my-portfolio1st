@@ -1,0 +1,7 @@
+C:\Users\IsaacGaming\Desktop\The Calendar\bin\Release\The Calendar.exe.config
+C:\Users\IsaacGaming\Desktop\The Calendar\bin\Release\The Calendar.exe
+C:\Users\IsaacGaming\Desktop\The Calendar\bin\Release\The Calendar.pdb
+C:\Users\IsaacGaming\Desktop\The Calendar\obj\Release\The Calendar.csprojAssemblyReference.cache
+C:\Users\IsaacGaming\Desktop\The Calendar\obj\Release\The Calendar.csproj.CoreCompileInputs.cache
+C:\Users\IsaacGaming\Desktop\The Calendar\obj\Release\The Calendar.exe
+C:\Users\IsaacGaming\Desktop\The Calendar\obj\Release\The Calendar.pdb

@@ -1,0 +1,7 @@
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\BitOperations\bin\Debug\BitOperations.exe.config
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\BitOperations\bin\Debug\BitOperations.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\BitOperations\bin\Debug\BitOperations.pdb
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\BitOperations\obj\Debug\BitOperations.csprojAssemblyReference.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\BitOperations\obj\Debug\BitOperations.csproj.CoreCompileInputs.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\BitOperations\obj\Debug\BitOperations.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\BitOperations\obj\Debug\BitOperations.pdb

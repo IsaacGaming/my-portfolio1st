@@ -1,0 +1,6 @@
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\teeth\bin\Release\teeth.exe.config
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\teeth\bin\Release\teeth.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\teeth\bin\Release\teeth.pdb
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\teeth\obj\Release\teeth.csproj.CoreCompileInputs.cache
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\teeth\obj\Release\teeth.exe
+E:\ДЕМИД\ПРОЕКТЫ (ЯЗЫКИ ПРОГ)\project (programms)\C #\teeth\obj\Release\teeth.pdb

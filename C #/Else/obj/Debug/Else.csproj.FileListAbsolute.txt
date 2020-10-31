@@ -1,0 +1,7 @@
+C:\Users\Ayzek\Desktop\project (programms)\C #\Else\bin\Debug\Else.exe.config
+C:\Users\Ayzek\Desktop\project (programms)\C #\Else\bin\Debug\Else.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\Else\bin\Debug\Else.pdb
+C:\Users\Ayzek\Desktop\project (programms)\C #\Else\obj\Debug\Else.csprojAssemblyReference.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\Else\obj\Debug\Else.csproj.CoreCompileInputs.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\Else\obj\Debug\Else.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\Else\obj\Debug\Else.pdb

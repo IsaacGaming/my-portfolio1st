@@ -1,0 +1,7 @@
+C:\Users\Ayzek\Desktop\project (programms)\C #\MathTool v1.0\bin\Debug\MathTool v1.0.exe.config
+C:\Users\Ayzek\Desktop\project (programms)\C #\MathTool v1.0\bin\Debug\MathTool v1.0.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\MathTool v1.0\bin\Debug\MathTool v1.0.pdb
+C:\Users\Ayzek\Desktop\project (programms)\C #\MathTool v1.0\obj\Debug\MathTool v1.0.csprojAssemblyReference.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\MathTool v1.0\obj\Debug\MathTool v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\MathTool v1.0\obj\Debug\MathTool v1.0.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\MathTool v1.0\obj\Debug\MathTool v1.0.pdb

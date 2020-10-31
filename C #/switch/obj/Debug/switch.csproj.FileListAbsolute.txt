@@ -1,0 +1,7 @@
+C:\Users\Ayzek\Desktop\project (programms)\C #\switch\bin\Debug\@switch.exe.config
+C:\Users\Ayzek\Desktop\project (programms)\C #\switch\bin\Debug\@switch.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\switch\bin\Debug\@switch.pdb
+C:\Users\Ayzek\Desktop\project (programms)\C #\switch\obj\Debug\switch.csprojAssemblyReference.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\switch\obj\Debug\@switch.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\switch\obj\Debug\@switch.pdb

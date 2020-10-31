@@ -1,0 +1,7 @@
+C:\Users\Ayzek\Desktop\project (programms)\C #\Арифметика\bin\Debug\Арифметика.exe.config
+C:\Users\Ayzek\Desktop\project (programms)\C #\Арифметика\bin\Debug\Арифметика.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\Арифметика\bin\Debug\Арифметика.pdb
+C:\Users\Ayzek\Desktop\project (programms)\C #\Арифметика\obj\Debug\Арифметика.csprojAssemblyReference.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\Арифметика\obj\Debug\Арифметика.csproj.CoreCompileInputs.cache
+C:\Users\Ayzek\Desktop\project (programms)\C #\Арифметика\obj\Debug\Арифметика.exe
+C:\Users\Ayzek\Desktop\project (programms)\C #\Арифметика\obj\Debug\Арифметика.pdb
